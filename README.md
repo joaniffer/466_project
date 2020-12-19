@@ -6,7 +6,7 @@ Only the .ipynb file has been uploaded (no .py version). Python code written in 
 
 ### Dependencies
 
-Libraries that must be installed to run all code are: `matplotlib`, 'numpy`, `scipy`, and `scikit-learn`, all of which can be installed with pip. If not already installed, this block of code can be pasted into a cell above the imports of the notebook:
+Libraries that must be installed to run all code are: `matplotlib`, `numpy`, `scipy`, and `scikit-learn`, all of which can be installed with pip. If not already installed, this block of code can be pasted into a cell above the imports of the notebook:
 
 ```
 !pip install numpy
