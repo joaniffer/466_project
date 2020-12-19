@@ -17,7 +17,7 @@ Libraries that must be installed to run all code are: `matplotlib`, `numpy`, `sc
 
 ### Running the program
 
-Assuming all necessary dependencies have been installed, run all cells to make sure all functions are available. Running all cells will additionally run the last cell, which is the only cell in the `Playground` section of the notebook. This cell may be modified or deleted. If you intend to compare the separate outputs, it's recommended to create additional cells.
+Assuming all necessary dependencies have been installed, run all cells to make sure all functions are available; this should take less than a minute. Running all cells will additionally run the last cell, which is the only cell in the `Playground` section of the notebook. This cell may be modified or deleted. If you intend to compare the separate outputs, it's recommended to create additional cells.
 
 The function of interest to run is `cluster_and_analyze` which will cluster the data based on the parameters as well as display the dendrogram and list the purity, Rand index, and normalized mutual information measures of the clustering. `cluster_and_analyze` takes the following parameters:
 - `normalized`: boolean value, when `True` will normalize the data
